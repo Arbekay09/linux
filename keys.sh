@@ -1,0 +1,2 @@
+name = "RBk"
+echo $name
